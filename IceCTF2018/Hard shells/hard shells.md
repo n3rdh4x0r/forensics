@@ -1,6 +1,4 @@
-![Pasted image 20250412123224](https://github.com/user-attachments/assets/e5dab346-f184-4721-9731-7ed580523657)![Pasted image 20250412123224](https://github.com/user-attachments/assets/c5121b28-8409-4583-86a0-824994a42369)![Pasted image 20250412131501](https://github.com/user-attachments/assets/8245267c-fd51-453d-87b4-06f1a1137884)# IceCTF2018 - Hard shells
-
-#forensics
+# IceCTF2018 - Hard shells
 
 ## Challenge Overview
 **Name:** = `Hard shells`
