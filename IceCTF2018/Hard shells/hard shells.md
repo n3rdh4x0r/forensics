@@ -1,10 +1,10 @@
 # IceCTF2018 - Hard shells
 
 ## Challenge Overview
-**Name:** = `Hard shells`
-**Type:** = `forensics`
-**Difficulty:** = `easy`
-**Points:** = `200`
+* Name: `Hard shells`
+* Type:`forensics`
+* Difficulty: `easy`
+* Points:`200`
 
 
 ### Description
